@@ -1,0 +1,8 @@
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru

@@ -1,0 +1,12 @@
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+newuser,newemail@mail.ru
+user1,user1@mail.ru
+user1,user1@mail.ru
+user 2,user2@mail.ru
+user 2,user2@mail.ru
+user 2,user2@mail.ru
+user 2,user2@mail.ru
+google,google@gmail.com
+google,google@gmail.com
